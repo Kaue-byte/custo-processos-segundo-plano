@@ -1,0 +1,135 @@
+[SplitScreen] Writing configuration for slot 0
+[SplitScreen] Saved 'cs2_user_keys.vcfg' to SteamRemoteStorage, 13 bytes OK
+[SplitScreen] Saved user config file 'cfg/cs2_user_keys_0_slot0.vcfg': type 1
+[SplitScreen] Saved user config file 'cfg/cs2_user_keys_0_slot0.vcfg_lastclouded': type 3
+[SplitScreen] Saved 'cs2_user_convars.vcfg' to SteamRemoteStorage, 3309 bytes OK
+[SplitScreen] Saved user config file 'cfg/cs2_user_convars_0_slot0.vcfg': type 1
+[SplitScreen] Saved user config file 'cfg/cs2_user_convars_0_slot0.vcfg_lastclouded': type 3
+[ResourceSystem] Failed loading resource "panorama/images/icons/ui/custom.vsvg_c" (ERROR_FILEOPEN: File not found)
+[SplitScreen] Writing configuration for slot 0
+[SplitScreen] Saved 'cs2_user_keys.vcfg' to SteamRemoteStorage, 13 bytes OK
+[SplitScreen] Saved user config file 'cfg/cs2_user_keys_0_slot0.vcfg': type 1
+[SplitScreen] Saved user config file 'cfg/cs2_user_keys_0_slot0.vcfg_lastclouded': type 3
+[SplitScreen] Saved 'cs2_user_convars.vcfg' to SteamRemoteStorage, 3309 bytes OK
+[SplitScreen] Saved user config file 'cfg/cs2_user_convars_0_slot0.vcfg': type 1
+[SplitScreen] Saved user config file 'cfg/cs2_user_convars_0_slot0.vcfg_lastclouded': type 3
+[BuildSparseShadowTree] CSparseShadowTreeGameSystem::GameShutdown
+[WorldRenderer] CWorldRendererMgr::ServiceWorldRequests long frame: 33.880330ms
+[SplitScreen] Writing configuration for slot 0
+[SplitScreen] Saved 'cs2_user_keys.vcfg' to SteamRemoteStorage, 13 bytes OK
+[SplitScreen] Saved user config file 'cfg/cs2_user_keys_0_slot0.vcfg': type 1
+[SplitScreen] Saved user config file 'cfg/cs2_user_keys_0_slot0.vcfg_lastclouded': type 3
+[SplitScreen] Saved 'cs2_user_convars.vcfg' to SteamRemoteStorage, 3309 bytes OK
+[SplitScreen] Saved user config file 'cfg/cs2_user_convars_0_slot0.vcfg': type 1
+[SplitScreen] Saved user config file 'cfg/cs2_user_convars_0_slot0.vcfg_lastclouded': type 3
+[ResourceSystem] Failed loading resource "maps/prefabs/misc/terrorist_team_intro_variant2/world_visibility.vvis_c" (ERROR_FILEOPEN: File not found)
+[Localization System] CLocalize::CompileString failed to localize: '#matchdraft_phase_action_wait'
+[Localization System] CLocalize::CompileString failed to localize: '#Movie_Playing'
+[Localization System] CLocalize::CompileString failed to localize: '#PANOHUD_Spectate_Navigation_ViewHighlight'
+[Localization System] CLocalize::CompileString failed to localize: '#PANOHUD_Spectate_Navigation_InspectLoadout_Show'
+[Localization System] CLocalize::CompileString failed to localize: '#Movie_Playing'
+[Localization System] CLocalize::CompileString failed to localize: '#Panorama_CSGO_Spray_Cursor_Hint'
+[CS2BombDamage] [Server] Unpacked damage data for 2 bomb sites (171394 values) on de_dust2.
+[Prediction] Resetting prediction state because we received a full update
+[CS2BombDamage] [Client] Unpacked damage data for 2 bomb sites (171394 values) on maps/de_dust2.vpk.
+[Shooting] cl: ReadFrameInput - Presented data has no mod info
+[BuildSparseShadowTree] SST shadow focus region for [de_dust2]
+   [*][shear]:      minz -1665.2, maxz 13694.2, (range 15359.4), (precision 0.2344)
+   [ ][light-axis]: minz -4656.1, maxz 14195.3, (range 18851.4 ), (precision 0.2877)
+   [ ][legacy]:     minz -2909.2, maxz 15194.2, (range 18103.4 ), (precision 0.2762)
+      sun dir -0.470 -0.438  0.766, world bounds -4736 -2496 -13694 ..  3584  4608  1409
+[Shooting] cl: ReadFrameInput - Presented data has no mod info
+[Shooting] cl: ReadFrameInput - Presented data has no mod info
+[CL CommandQueue] CQ: Server set re-sync at cmd 11
+[ResourceSystem] Failed loading resource "panorama/images/_png.vtex_c" (ERROR_FILEOPEN: File not found)
+[ResourceSystem] Failed loading resource "panorama/images/icons/ui/custom.vsvg_c" (ERROR_FILEOPEN: File not found)
+[Console] Using spawn points configuration 0x82FA49A0
+[Prediction] Added prediction for player slot 0 (mobsters430)
+[Prediction] Scanned 772 entities, activated prediction for 3, total predictable entities now 3
+[Console] Enabling flag 'donotecho' on channel 'Console'.
+[CL CommandQueue] CQ: Server set re-sync at cmd 70
+[VProf] VProfLite started.
+[Console] "                                     =============================================================================================                                     "
+[Console] "                                     =        ==       ====      ===  ====  ==        =====  =====  ====  ==        ==  =======  =                                     "
+[Console] "                                     =  ========  ====  ==  ====  ==  ====  ==  ==========    ====  ====  ==  ========   ======  =                                     "
+[Console] "                                     =  ========  ====  ==  ====  ==  ====  ==  =========  ==  ===  ====  ==  ========    =====  =                                     "
+[Console] "                                     =  ========  ====  ===  =======  ====  ==  ========  ====  ==  ====  ==  ========  ==  ===  =                                     "
+[Console] "                                     =      ====       ======  =====        ==      ====  ====  ==   ==   ==      ====  ===  ==  =                                     "
+[Console] "                                     =  ========  =============  ===  ====  ==  ========        ===  ==  ===  ========  ====  =  =                                     "
+[Console] "                                     =  ========  ========  ====  ==  ====  ==  ========  ====  ===  ==  ===  ========  =====    =                                     "
+[Console] "                                     =  ========  ========  ====  ==  ====  ==  ========  ====  ====    ====  ========  ======   =                                     "
+[Console] "                                     =  ========  =========      ===  ====  ==        ==  ====  =====  =====        ==  =======  =                                     "
+[Console] "                                     =============================================================================================                                     "
+[Console] "                  ==================================================================================================================================                   "
+[Console] "                  ===     ====      ======   ==========      ====        ==  =======  ====     ===  ====  ==  =====  =====  =====       ===  ====  =                   "
+[Console] "                  ==  ===  ==  ====  ===   =   ========  ===  ===  ========   ======  ===  ===  ==  ====  ==   ===   ====    ====  ====  ==  ===  ==                   "
+[Console] "                  =  ========  ====  ==   ===   =======  ====  ==  ========    =====  ==  ========  ====  ==  =   =  ===  ==  ===  ====  ==  ==  ===                   "
+[Console] "                  =  =========  ============   ========  ===  ===  ========  ==  ===  ==  ========  ====  ==  == ==  ==  ====  ==  ===   ==  =  ====                   "
+[Console] "                  =  ===========  =========   =========      ====      ====  ===  ==  ==  ========        ==  =====  ==  ====  ==      ====     ====                   "
+[Console] "                  =  =============  ======   ==========  ===  ===  ========  ====  =  ==  ========  ====  ==  =====  ==        ==  ====  ==  ==  ===                   "
+[Console] "                  =  ========  ====  ====   ===========  ====  ==  ========  =====    ==  ========  ====  ==  =====  ==  ====  ==  ====  ==  ===  ==                   "
+[Console] "                  ==  ===  ==  ====  ===   ============  ===  ===  ========  ======   ===  ===  ==  ====  ==  =====  ==  ====  ==  ====  ==  ====  =                   "
+[Console] "                  ===     ====      ===        ========      ====        ==  =======  ====     ===  ====  ==  =====  ==  ====  ==  ====  ==  ====  =                   "
+[Console] "                  ==================================================================================================================================                   "
+[Console] "                  >>>>>>>>>>>>>>>>>>>>>>>>>                     fpsheaven.com || twitter.com/frequencycs                    <<<<<<<<<<<<<<<<<<<<<<<<                   "
+[Console] "                                                                                                                                                                       "
+[Console] "                                                       ######  #     #       #    #     #  #####  ####### #                                                            "
+[Console] "                                                       #     #  #   #       # #   ##    # #     # #       #                                                            "
+[Console] "                                                       #     #   # #       #   #  # #   # #       #       #                                                            "
+[Console] "                                                       ######     #       #     # #  #  # #  #### #####   #                                                            "
+[Console] "                                                       #     #    #       ####### #   # # #     # #       #                                                            "
+[Console] "                                                       #     #    #       #     # #    ## #     # #       #                                                            "
+[Console] "                                                       ######     #       #     # #     #  #####  ####### #######                                                      "
+[Console] "                                                                                                                                                                       "
+[Console] "                  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      steamcommunity.com/id/AnnGell88 || twitter.com/Angel_foxxo      <<<<<<<<<<<<<<<<<<<<<<<<<<<<<                   "
+[Console] "                                                                                                                                                                       "
+[Console] Disconnecting in order to print performance results in:
+[Console] 3
+[Console] 2
+[Console] 1
+[Console] Enabling flag 'donotecho' on channel 'Console'.
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 20089 frames and 120 1-second intervals.  (1597 frames excluded from analysis.)
+[VProf] FPS: Avg=167.6, P1=90.4
+[VProf] 
+[VProf]                       All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                         Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] -------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]           FrameTotal   5.97  11.06    20089   5.97  11.06    11.51  14.66      120  11.51  14.66
+[VProf]     Client Rendering   2.09   3.04    20089   2.09   3.04     3.32   6.99      120   3.32   6.99
+[VProf]       Frame Boundary   1.38   2.23    20089   1.38   2.23     2.44   6.02      120   2.44   6.02
+[VProf]    Client Simulation   1.07   2.23    20089   1.07   2.23     2.43   4.36      120   2.43   4.36
+[VProf]    Server Simulation   1.05   4.10     7671   2.76   4.55     4.57   6.31      120   4.57   6.31
+[VProf]          Server Game   0.85   3.24     7671   2.22   4.10     3.81   5.45      120   3.81   5.45
+[VProf]      LowLatencySleep   0.77   2.38    20089   0.77   2.38     1.91   2.88      120   1.91   2.88
+[VProf]  ClientSimulateFrame   0.75   1.21    20089   0.75   1.21     1.34   3.33      120   1.34   3.33
+[VProf]           Prediction   0.44   1.15    20089   0.44   1.15     1.37   3.07      120   1.37   3.07
+[VProf]        Interpolation   0.39   0.89    20089   0.39   0.89     0.95   2.93      120   0.95   2.93
+[VProf]   ClientSimulateTick   0.32   1.27     7671   0.83   1.37     1.45   2.74      120   1.45   2.74
+[VProf]         UserCommands   0.31   1.16     7671   0.81   1.29     1.43   3.13      120   1.43   3.13
+[VProf]          Unaccounted   0.28   0.72    20089   0.28   0.72     0.77   1.21      120   0.77   1.21
+[VProf]           Networking   0.21   0.75     7674   0.54   0.83     0.95   1.44      120   0.95   1.44
+[VProf]     Server Animation   0.18   0.69     7671   0.48   0.77     0.84   1.68      120   0.84   1.68
+[VProf]       Input Handling   0.17   0.66    20089   0.17   0.66     0.61   2.59      120   0.61   2.59
+[VProf]                  HUD   0.17   0.27    20089   0.17   0.27     0.36   0.76      120   0.36   0.76
+[VProf]           PanoramaUI   0.15   0.26    20089   0.15   0.26     0.33   0.78      120   0.33   0.78
+[VProf]                 NPCs   0.13   0.51     7671   0.33   0.61     0.58   1.16      120   0.58   1.16
+[VProf] EventFrameBoundary_t   0.12   0.25    20089   0.12   0.25     0.27   1.29      120   0.27   1.29
+[VProf]             Movement   0.11   0.44     7804   0.28   0.53     0.48   1.25      120   0.48   1.25
+[VProf]   InterpolationLatch   0.09   0.39     7671   0.25   0.47     0.45   0.76      120   0.45   0.76
+[VProf]        PhysicsTraces   0.07   0.29     9798   0.14   0.32     0.34   1.15      120   0.34   1.15
+[VProf]  Server PackEntities   0.06   0.33     7671   0.16   0.40     0.36   0.62      120   0.36   0.62
+[VProf]                Magic   0.00   0.00      286   0.17   0.46     0.00   0.42       35   0.28   0.49
+[VProf] 
+[VProf] VProfLite stopped.
+[BuildSparseShadowTree] CSparseShadowTreeGameSystem::GameShutdown
+[ResourceSystem] Failed loading resource "panorama/images/econ/set_icons/_small_png.vtex_c" (ERROR_FILEOPEN: File not found)
+[Prediction] Prediction time (132.984375) is ahead of sim time (0.015625) by excessive amount (132.968750)?  Clamping offset
+[Prediction] Prediction time (132.984375) is ahead of sim time (0.015625) by excessive amount (132.968750)?  Clamping offset
+[Prediction] Prediction time (132.984375) is ahead of sim time (1.062500) by excessive amount (131.921875)?  Clamping offset
+[Prediction] Prediction time (132.984375) is ahead of sim time (1.078125) by excessive amount (131.906250)?  Clamping offset
+[Prediction] Resetting prediction state because we received a full update
+[Prediction] Added prediction for player slot 0 (mobsters430)
+[Prediction] Scanned 56 entities, activated prediction for 1, total predictable entities now 1
+[WorldRenderer] CWorldRendererMgr::ServiceWorldRequests long frame: 11.256134ms
